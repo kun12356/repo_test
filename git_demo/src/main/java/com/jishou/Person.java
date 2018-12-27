@@ -3,5 +3,6 @@ package com.jishou;
 public class Person {
     //修改
     private String name;
+    private String addressp;
     private Integer id;
 }
